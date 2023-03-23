@@ -63,6 +63,8 @@ namespace Visual_Studio_Ex1_Djalma
                 } while (opcao == 2);
             }
             Console.ReadKey();
+
+            //...
         }
     }
 }
